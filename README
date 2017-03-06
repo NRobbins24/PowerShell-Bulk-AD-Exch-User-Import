@@ -1,0 +1,7 @@
+Active Directory / Exchange Bulk User Import Tool
+
+Hacked together in 2012 to meet requirements to import hundreds of user accounts at once into Microsoft Active Directory.
+The software meets a few needs such as selecting an Exchange mailbox based on last name, a feature that may not be relevant
+for every organization. Additionally, some bugs are floating around and the code could use an overhaul.
+
+For now, it will live here in case anyone on the great interwebs finds a use for it.
